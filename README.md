@@ -1,16 +1,9 @@
 # AIoT  Exercises
-
 This repository is for practicing and implementing exercises related to the IoT course.
-
-## Purpose
-
-Just a personal project to do and test AIoT-related code for learning purposes.
-
+## Student Info 
+Name: Ngo Trung Kien 
+ID: 10423065 
 ## Contents
-
-- Code files for different exercises
-- Simple examples using sensors, microcontrollers, or AI models (if needed)
-
+Exercises from the IoT lessons 
 ## Notes
-
-This is a work in progress. Mainly for self-learning.
+This is a work in progress. 
