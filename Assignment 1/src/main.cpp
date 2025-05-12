@@ -14,8 +14,8 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("Hello, world!");
-  Serial.println("Goodbye!");
+  Serial.println("Hello!");
+  Serial.println("Bye!");
   delay(2000);
 }
 
