@@ -5,8 +5,8 @@
 using namespace std;
 
 // WiFi credentials
-const char* SSID = "ChoiSongJun";
-const char *PASSWORD = "qvuw9726";
+const char* SSID = "Chickennuggets";
+const char *PASSWORD = "mot2ba4nam6";
 
 // MQTT settings
 const string ID = "192a986b-602f-4092-be87-89f3bc80e9b0";
